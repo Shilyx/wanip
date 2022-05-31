@@ -1,0 +1,2 @@
+# wanip
+get wan ip
